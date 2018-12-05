@@ -14,6 +14,8 @@ our community, as well as the consequences for unacceptable behavior.
 We invite all those who participate in `Codex` to help us create safe and
 positive experiences for everyone.
 
+Besides this code of conduct, we accept the [University of Antioquia rules](http://www.udea.edu.co/wps/portal/udea/web/inicio/institucional/normativa)
+
 ## Expected Behavior 🤝
 
 The following behaviors are expected and requested of all community members:

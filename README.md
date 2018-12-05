@@ -15,6 +15,8 @@ comportamiento inaceptable.
 Invitamos a todos los que participan en `Codex` a que nos ayuden a crear
 experiencias seguras y positivas para todos.
 
+Ademas de lo mencionado en este código de conducta, Codex se acoge a la [reglamentación de la Universidad de Antioquia](http://www.udea.edu.co/wps/portal/udea/web/inicio/institucional/normativa)
+
 ## Comportamiento esperado 🤝
 
 Esperamos los siguientes comportamientos por parte de todos los miembros de la comunidad:
