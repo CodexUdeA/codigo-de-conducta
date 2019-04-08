@@ -1,8 +1,8 @@
 <h1 style="text-align:center;"> Codex UdeA - Código de Conducta 📌</h1>
 
-## Porque un código de conducta?
+## ¿Por qué un código de conducta?
 
-Uno de los objetivos principales de `Codex` es ser inclusiva para el
+Uno de los objetivos principales de `Codex` es ser inclusivo     para el
 mayor número de miembros, con la mayor diversidad de orígenes posibles.
 Como tal, estamos comprometidos a proporcionar un ambiente agradable, seguro y
 acogedor para todos, independientemente de su sexo, orientación sexual,
@@ -15,7 +15,7 @@ comportamiento inaceptable.
 Invitamos a todos los que participan en `Codex` a que nos ayuden a crear
 experiencias seguras y positivas para todos.
 
-Ademas de lo mencionado en este código de conducta, Codex se acoge a la [reglamentación de la Universidad de Antioquia](http://www.udea.edu.co/wps/portal/udea/web/inicio/institucional/normativa)
+Ademas de lo mencionado en este código de conducta, Codex se acoge a la [reglamentación de la Universidad de Antioquia.](http://www.udea.edu.co/wps/portal/udea/web/inicio/institucional/normativa)
 
 ## Comportamiento esperado 🤝
 
@@ -26,7 +26,7 @@ Esperamos los siguientes comportamientos por parte de todos los miembros de la c
 - Intenta colaborar en lugar de generar conflicto.
 - Se abstiene de adoptar una conducta y un lenguaje degradantes, discriminatorios, abusivos o acosadores.
 - Si nota una situación peligrosa, alguien en apuros, o
-  violaciones de este Código de Conducta, lo alerta a los lideres de la comunidad, incluso si parecen intrascendentes.
+  violaciones de este Código de Conducta, alerta a los líderes de la comunidad, incluso si parecen intrascendentes.
 
 ## Comportamiento inaceptable 🙅🏻‍♀️
 
@@ -36,7 +36,7 @@ Los siguientes comportamientos son considerados inaceptables en nuestra comunida
 - Sexismo, racismo, homofobia o cualquier lenguaje o broma discriminatoria.
 - Publicar material explicito violento o sexual.
 -  Insultos, especialmente los relacionados con género, orientación sexual, raza, religión o discapacidad.
--  Atención sexual no deseada: Tal como comentarios y bromas sexualizadas, manoseo inapropiado.
+-  Atención sexual no deseada: tal como manoseo inapropiado, comentarios y bromas sexualizadas.
 -  Promover alguno de los comportamientos anteriormente mencionados.
 
 ## Consecuencias de comportamiento inaceptable
@@ -49,7 +49,7 @@ inaceptable lo hagan de manera inmediata.
 
 Si un miembro de la comunidad participa en una conducta inaceptable, los
 organizadores comunitarios pueden tomar cualquier acción que consideren
-apropiada, hasta e incluyendo una prohibición temporal o expulsión permanente
+apropiada, incluyendo una prohibición temporal o expulsión permanente
 de la comunidad, sin previo aviso (y sin derecho a reembolso en el caso de un
 evento de pago).
 
@@ -58,12 +58,12 @@ evento de pago).
 Si eres víctima o testigo de una conducta inaceptable, o tienes cualquier
 inquietud, por favor comunícate con un organizador de la comunidad lo antes posible.
 
-Email: manuela.castrillon@udea.edu.co
+correo electrónico: manuela.castrillon@udea.edu.co
 
 Adicionalmente, los organizadores comunitarios están disponibles para ayudar
 a miembros de la comunidad a contactar a la policía local o interceder para que
 víctimas de comportamiento inaceptable se sientan seguros,
-En el contexto de los eventos en persona, los organizadores
+en el contexto de los eventos en persona, los organizadores
 también pueden proporcionar escoltas si un miembro de la comunidad lo siente
 necesario.
 
@@ -76,10 +76,10 @@ comunicaciones de uno-a-uno relacionadas con la comunidad.
 ## Contacto
 
 - manuela.castrillon@udea.edu.co
-- [Facebook](https://www.facebook.com/groups/udeakodexx/)
+- [Facebook](https://www.facebook.com/groups/CodexUdeA/)
 
 ## Licencia y atribución
 
-Este Código de Conducta se distribuye bajo una licencia [Creative Commons – ShareAlike (BY-SA)](http://creativecommons.org/licenses/by-sa/3.0/)
+Este Código de Conducta se distribuye bajo una licencia [Creative Commons – ShareAlike (BY-SA)](http://creativecommons.org/licenses/by-sa/3.0/).
 
-Adaptado del [Código de Conducta de Colombia Dev](https://github.com/colombia-dev/codigo-de-conducta)
+Adaptado del [Código de Conducta de Colombia Dev](https://github.com/colombia-dev/codigo-de-conducta).
